@@ -1,0 +1,19 @@
+.stopwatch {
+  text-align: center;
+  margin-top: 100px;
+}
+
+#display {
+  font-size: 48px;
+}
+
+.controls button {
+  margin-top: 20px;
+  font-size: 20px;
+  padding: 10px 20px;
+}
+
+#laps {
+  margin-top: 40px;
+  text-align: left;
+}
